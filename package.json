@@ -9,7 +9,7 @@
   "keywords": [
     "CMS"
   ],
-  "author": "Edwin Diaz",
+  "author": "Anuj Mishra",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
